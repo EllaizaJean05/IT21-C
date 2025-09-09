@@ -4,3 +4,5 @@ let year = "2nd Year";
 
 console.log("Name:" + fname + "\nCourse:" + course +"\nYear Level:" +year);
 
+
+
