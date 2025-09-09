@@ -20,4 +20,14 @@ if (studyHours >= 5) {
 
 }
 
+let subjects = ["WEB SYSTEM", "EVENT DRIVEN", "OOP"];
+console.log("List of my subject this sem:")
+
+for (let i = 0; i < subjects.length; i++){
+    
+    console.log(subjects[i]);
+}
+
+
+
 
