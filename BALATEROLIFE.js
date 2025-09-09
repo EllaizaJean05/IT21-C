@@ -28,6 +28,12 @@ for (let i = 0; i < subjects.length; i++){
     console.log(subjects[i]);
 }
 
+function greet (name) {
+    console.log("\nMy name is " + name);
+    
+}
+greet (name + ", a " + year + " "+ course);
+
 
 
 
