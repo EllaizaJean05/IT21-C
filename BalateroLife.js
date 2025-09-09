@@ -4,5 +4,24 @@ let year = "2nd Year";
 
 console.log("Name:" + fname + "\nCourse:" + course +"\nYear Level:" +year);
 
+let hours = 8;
+let study = 3;
 
+console.log("Total Hours of Sleep:" + hours + "\nTotal Hours of Study:"+ study);
 
+let studyHours = 3;
+if (studyHours >= 5) {
+    console.log("Great! You studied enough today.");
+
+    
+} else {
+    console.log("You need to study more.");
+
+}
+let subjects = ["WEB SYSTEM", "EVENT DRIVEN", "OOP"];
+
+for (let i = 0; i < subjects.length; i++){
+    console.log("List of my subject this sem:")
+    console.log(subjects[i]);
+
+}
