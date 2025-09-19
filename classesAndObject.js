@@ -17,8 +17,8 @@ introduce(){
 //create object
 var s1 = new Student ("Ellaiza Jean Curay Balatero", "Information Technology");
 s1.introduce();
-*/
-/*
+
+
 class Animal {
 
     constructor(name){
