@@ -1,4 +1,4 @@
-/*
+
 class Student {
 
     constructor(name, course){
@@ -62,7 +62,7 @@ class Animal {
 var dog = new Animal ("Dog");
 console.log(dog.getName());
 console.log(dog.name);
-*/
+
 
 class bankAccount{
     #balance;
